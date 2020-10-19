@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `ACTROS`,
-    siteUrl: `https://actros-educational-project.github.io`,
+    siteUrl: `https://actros-educational-project.github.io/en/`,
     description: `Center for Advanced Training on Robotics and %TOPICS%`,
     topics: [
       'Open Source',
@@ -56,7 +56,7 @@ module.exports = {
         manifest: {
           name: `nehalem - A Gatsby theme`,
           short_name: `nehalem`,
-          start_url: `/`,
+          start_url: `/en/`,
           background_color: `#a4cbb8`,
           theme_color: `#a4cbb8`,
           display: `minimal-ui`,
