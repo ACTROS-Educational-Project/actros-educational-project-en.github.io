@@ -1,10 +1,11 @@
 ---
-title: ROS Course
+title: Robots Programming with ROS
 path: "/ros"
 tags: ["ROS"]
 featuredImage: "./ros.jpg"
 excerpt: ROS (Robot Operating System) is the current standard in the area of ​​Robotics. So much so that it is essential in research in this area, and an essential requirement to access any job position related to Robotics.
-created: 2020-10-17
+created: 2020-07-09
+updated: 2020-07-09
 ---
 
 ## Curriculum Name

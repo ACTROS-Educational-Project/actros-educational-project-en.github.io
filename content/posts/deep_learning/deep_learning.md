@@ -1,10 +1,11 @@
 ---
-title: Deep Learning
+title: Deep Learning applications in Robots using ROS/ROS2
 path: "/deep_learning"
 tags: ["Deep Learning"]
 featuredImage: "./deep_learning.jpeg"
 excerpt: Deep Learning is one of the most popular areas in the robotics field. Researchs in this area have got awesome results in fields like Natural Language Processing and Computer Vision.
 created: 2020-07-06
+updated: 2020-10-19
 ---
 
 ## Description

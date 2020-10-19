@@ -1,10 +1,10 @@
 ---
-title: ROS2 Course
+title: Robots Programming with ROS2
 path: "/ros2"
 tags: ["ROS2"]
 featuredImage: "./ros2.jpg"
 excerpt: With the ROS2 release, a new system with much more advanced characteristics is raised and it will be the new standard in robotic software development in the industry.
-created: 2020-07-09
+created: 2020-07-08
 updated: 2020-07-09
 ---
 
