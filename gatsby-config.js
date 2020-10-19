@@ -1,7 +1,12 @@
 module.exports = {
+  proxy: {
+    prefix: "/en",
+    url: "https://actros-educational-project.github.io",
+  },
+
   siteMetadata: {
     title: `ACTROS`,
-    siteUrl: `https://actros-educational-project.github.io/en`,
+    siteUrl: `https://actros-educational-project.github.io/`,
     description: `Center for Advanced Training on Robotics and %TOPICS%`,
     topics: [
       'Open Source',
