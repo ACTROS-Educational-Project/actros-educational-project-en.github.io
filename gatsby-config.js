@@ -1,9 +1,5 @@
 module.exports = {
-  proxy: {
-    prefix: "/en",
-    url: "https://actros-educational-project.github.io",
-  },
-
+  pathPrefix: `/en`,
   siteMetadata: {
     title: `ACTROS`,
     siteUrl: `https://actros-educational-project.github.io/`,
