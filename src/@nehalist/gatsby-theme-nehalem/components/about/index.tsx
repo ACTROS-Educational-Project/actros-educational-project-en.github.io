@@ -25,9 +25,9 @@ export const About = () => (
       <div class="description">
         <p>
           <br></br>
-          We are <strong>Intelligent Robotics Lab</strong>, a team of researchers in Robotics
-          from Rey Juan Carlos University and University of León experienced in
-          participating in several Robotics Competitions.
+          We are <strong> Intelligent Robotics Lab </strong>, a team of robotics researchers from the <strong> Rey Juan Carlos University </strong> with more than 10 years of experience in development
+          of robotic software and with more than 5 years of experience in the use, development and
+          ROS training.
         </p>
       </div>
       <div class="subcomment">
@@ -62,7 +62,7 @@ export const About = () => (
         </div>
         <div class="definition">
           <p>
-            <strong>Assistant Professor</strong>
+            <strong>Doctor assistant</strong>
           </p>
         </div>
       </GridImg>
@@ -75,7 +75,7 @@ export const About = () => (
         </div>
         <div class="definition">
           <p>
-            <strong>PhD Candidate</strong>
+            <strong>Pre-Doctoral Researcher</strong>
           </p>
         </div>
       </GridImg>

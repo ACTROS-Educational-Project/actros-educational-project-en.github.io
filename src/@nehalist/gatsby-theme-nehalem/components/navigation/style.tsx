@@ -74,7 +74,7 @@ export const SearchContainer = styled.div`
 
 export const ToggleSearchButton = styled.button`
   cursor: pointer;
-  color: #fff;
+  color: #070401;
   opacity: .8;
   background: none;
   outline: none;
