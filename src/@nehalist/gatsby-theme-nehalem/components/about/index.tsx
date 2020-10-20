@@ -62,7 +62,7 @@ export const About = () => (
         </div>
         <div class="definition">
           <p>
-            <strong>Doctor assistant</strong>
+            <strong>Assistant Professor</strong>
           </p>
         </div>
       </GridImg>
@@ -75,7 +75,7 @@ export const About = () => (
         </div>
         <div class="definition">
           <p>
-            <strong>Pre-Doctoral Researcher</strong>
+            <strong>PhD Candidate</strong>
           </p>
         </div>
       </GridImg>
