@@ -1,10 +1,11 @@
 ---
-title: Perception
+title: Robots Perception with ROS and ROS2
 path: "/perception"
 tags: ["Perception"]
 featuredImage: "./perception.png"
 excerpt: Sensors are a data source very important for robots. Because of them, they can recognize its environment and get information very valious about it.
 created: 2020-07-07
+updated: 2020-10-19
 ---
 
 ## Description

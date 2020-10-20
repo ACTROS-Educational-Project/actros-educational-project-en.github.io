@@ -1,10 +1,11 @@
 ---
-title: Navigation Course
+title: Robots Navigation with ROS and ROS2
 path: "/navigation"
 tags: ["Navigation"]
 featuredImage: "./navigation.jpg"
 excerpt: The ROS/ROS2 navigation stack is one of its main packages and it allow to give a robot basic capacities of movement in an easy way
-created: 2020-07-08
+created: 2020-07-07
+updated: 2020-10-19
 ---
 
 ## Description

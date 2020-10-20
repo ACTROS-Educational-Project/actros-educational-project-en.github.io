@@ -5,7 +5,7 @@ tags: ["Courses"]
 excerpt: Sample courses page.
 ---
 
-# ROS Course
+# Robots Programming with ROS
 
 ROS (Robot Operating System) is the current standard in the area of ​​Robotics. So much so that it is essential in research in this area, and an essential requirement to access any job position related to Robotics.
 
@@ -13,7 +13,7 @@ ROS (Robot Operating System) is the current standard in the area of ​​Roboti
 
 <br><br>
 
-# ROS2 Course
+# Robots Programming with ROS2
 
 With the ROS2 release, a new system with much more advanced characteristics is raised and it will be the new standard in robotic software development in the industry.
 
@@ -21,7 +21,7 @@ With the ROS2 release, a new system with much more advanced characteristics is r
 
 <br><br>
 
-# Navigation Course
+# Robots Navigation with ROS and ROS2
 
 The ROS/ROS2 navigation stack is one of its main packages and it allow to give a robot basic capacities of movement in an easy way.
 
@@ -29,7 +29,7 @@ The ROS/ROS2 navigation stack is one of its main packages and it allow to give a
 
 <br><br>
 
-# Perception Course
+# Robots Perception with ROS and ROS2
 
 Sensors are a data source very important for robots. Because of them, they can recognize its environment and get information very valious about it.
 
@@ -37,7 +37,7 @@ Sensors are a data source very important for robots. Because of them, they can r
 
 <br><br>
 
-# Deep Learning Course
+# Deep Learning applications in Robots using ROS/ROS2
 
 Deep Learning is one of the most popular areas in the robotics field. Researchs in this area have got awesome results in fields like Natural Language Processing and Computer Vision.
 
