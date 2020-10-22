@@ -133,4 +133,4 @@ In case of impossibility of attendance in person:
 
 * The material will be taught electronically in sessions of similar duration and schedule through the Teams platform or similar.
 
-* Robotics simulator Gazebo will be used
+* Robotics simulator Gazebo will be used.
