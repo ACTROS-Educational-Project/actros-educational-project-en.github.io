@@ -15,7 +15,7 @@ ROS (Robot Operating System) is the current standard in the area of ​​Roboti
 
 # Robots Programming with ROS2
 
-With the ROS2 release, a new system with much more advanced characteristics is raised and it will be the new standard in robotic software development in the industry.
+ROS2 is a complete redesign to be widely adopted by companies that require features that ROS did not have (Quality of service, reliability, predictability, portability ...
 
 [![Image](../posts/ros2/ros2_link.png)](/ros2)
 

@@ -5,7 +5,7 @@ tags: ["ROS"]
 featuredImage: "./ros.jpg"
 excerpt: ROS (Robot Operating System) is the current standard in the area of ​​Robotics. So much so that it is essential in research in this area, and an essential requirement to access any job position related to Robotics.
 created: 2020-07-09
-updated: 2020-07-09
+updated: 2020-10-21
 ---
 
 ## Curriculum Name
@@ -65,20 +65,20 @@ There will be 4 professors more by support to be able si assist in a more indivi
 * **Modality:** face-to-face.
 * **Number of Credits:** 1.6.
 * **Hours:** 16.
-* **Place:** Robotics Laboratory (3104) ETSIT, Fuenlabrada's Campus (URJC).
+* **Place:** [Laboratorio de Robótica (3104) ETSIT, Campus de Fuenlabrada.](https://goo.gl/maps/i8Xwoqp7cSaWrJmV7)
 * **Timetable:** 17:00-21:00.
-* **Beginning and Finish Dates (month/day/year):**
-    * Monday 11/16/2020
-    * Wednesday 11/18/2020
-    * Friday 11/20/2020
-    * Monday 11/23/2020
+* **Beginning and Finish Dates (year/month/day):**
+    * Monday 2020/11/16
+    * Wednesday 2020/11/18
+    * Friday 2020/11/20
+    * Monday 2020/11/23
 
 ## Pre-registration and Enrollment
 
 ### Reservation of Place and Registration
 
-* **Pre-registration Period (mont/day/year):**  10/19/2020 - 10/06/2020
-* **Enrollment Period (month/day/year):** 11/09/2020 - 11/13/2020
+* **Pre-registration Period:**  2020/10/19 - 2020/10/06
+* **Enrollment Period:** 2020/11/09 - 2020/11/13
 * **Title Price:** 800 €
 * **Pre-Registration:** 200 €. This amount is included in the total cost of the course and will be refunded in the event that your academic application is not accepted. If once the student's application is accepted, the enrollment is not formalized, the amount deposited as pre-enrollment will not be returned.
 
